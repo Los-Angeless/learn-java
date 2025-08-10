@@ -1,6 +1,6 @@
 # Java Programs
 
-![Java Programs Banner](javaprogramL.png)
+![Java Programs](images/javaprogramL.png)
 
 > 📌 **Support the project:** If you like this repository, please give it a ⭐ on GitHub — it helps others find it!
 
