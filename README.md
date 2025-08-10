@@ -122,5 +122,5 @@ If you want to add more Java programs or improve existing ones:
 This repository is intended for beginners who want to practice Java programming and improve problem-solving skills.
 
 ---
-**Author:** Nishant Wagharalkar
+**Author:** Nishant Wagharalkar </br>
 **License:** MIT License
