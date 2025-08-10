@@ -18,7 +18,7 @@ This repository covers fundamental programming exercises including star patterns
 
 ## 📂 Folder Structure
 
-  plaintext
+
 📦 learn-java
  ┣ 📜 javaprogramL.png         # Project banner image
  ┣ 📜 README.md               # Project documentation
