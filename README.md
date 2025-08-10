@@ -107,14 +107,6 @@ If you want to add more Java programs or improve existing ones:
      
 6. **Create a Pull Request** on GitHub
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Los-Angeless&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Los-Angeless&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
 
 ---
 
