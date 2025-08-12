@@ -35,7 +35,7 @@ This repository covers fundamental programming exercises including star patterns
        ┗ 📜 SolidRectangle.java
   
 
----
+-----
 
 ## 📂 Programs List
 
