@@ -1,5 +1,7 @@
 // Inverted & Rotated Half Pyramid
 
+package StarPattern;
+
 public class Pattern5 {
     public static void main(String[] args) {
         int n = 5; // size of the pattern
