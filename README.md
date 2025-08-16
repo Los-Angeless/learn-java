@@ -1,6 +1,6 @@
 # Java Programs
 
-![Java Programs Banner](javaprogramL.png)
+![Java Programs](images/javaprogramL.png)
 
 > 📌 **Support the project:** If you like this repository, please give it a ⭐ on GitHub — it helps others find it!
 
@@ -18,7 +18,7 @@ This repository covers fundamental programming exercises including star patterns
 
 ## 📂 Folder Structure
 
-  plaintext
+
 📦 learn-java
  ┣ 📜 javaprogramL.png         # Project banner image
  ┣ 📜 README.md               # Project documentation
@@ -35,7 +35,7 @@ This repository covers fundamental programming exercises including star patterns
        ┗ 📜 SolidRectangle.java
   
 
----
+-----
 
 ## 📂 Programs List
 
@@ -107,14 +107,6 @@ If you want to add more Java programs or improve existing ones:
      
 6. **Create a Pull Request** on GitHub
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Los-Angeless&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Los-Angeless&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
 
 ---
 
@@ -130,5 +122,5 @@ If you want to add more Java programs or improve existing ones:
 This repository is intended for beginners who want to practice Java programming and improve problem-solving skills.
 
 ---
-**Author:** Nishant  
+**Author:** Nishant Wagharalkar </br>
 **License:** MIT License
