@@ -49,7 +49,7 @@ This repository covers fundamental programming exercises including star patterns
 | [HollowRectangle.java](programs/StarPattern/HollowRectangle.java) | ⬛ Prints a hollow rectangle pattern. |
 | [InverstedHalfPyramid.java](programs/StarPattern/InverstedHalfPyramid.java) | 🔻 Prints an inverted half pyramid star pattern. |
 | [Pattern5.java](programs/StarPattern/Pattern5.java) | Print a Inverted & Rotated Half Pyramid . |
-| [Pattern5.java](programs/StarPattern/Pattern6.java) | Print a Inverted & Rotated Half Pyramid with Number. |
+| [Pattern6.java](programs/StarPattern/Pattern6.java) | Print a Inverted & Rotated Half Pyramid with Number. |
 | [SolidRectangle.java](programs/StarPattern/SolidRectangle.java) | 🟥 Prints a solid rectangle pattern. |
 
 ---
