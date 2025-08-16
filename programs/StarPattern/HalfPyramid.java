@@ -1,3 +1,5 @@
+// Half Pyramid Pattern
+
 package StarPattern;
 
 public class HalfPyramid {
