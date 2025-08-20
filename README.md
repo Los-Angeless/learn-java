@@ -19,34 +19,43 @@ This repository covers fundamental programming exercises including star patterns
 ## 📂 Folder Structure
 
 
-📦 learn-java
- ┣ 📜 javaprogramL.png         # Project banner image
- ┣ 📜 README.md               # Project documentation
- ┗ 📂 programs
-    ┣ 📜 EvenNumber.java
-    ┣ 📜 PrimeNumber.java
-    ┣ 📜 RadiusOfCircle.java
-    ┣ 📜 StringReverse.java
-    ┣ 📜 TableOfNumber.java
-    ┗ 📂 StarPattern
-       ┣ 📜 HalfPyramid.java
-       ┣ 📜 HollowRectangle.java
-       ┣ 📜 InverstedHalfPyramid.java
-       ┗ 📜 SolidRectangle.java
-  
+📦 learn-java  
+ ┣ 📜 javaprogramL.png         # Project banner image  
+ ┣ 📜 README.md               # Project documentation  
+ ┗ 📂 programs  
+ ┃ ┣ 📜 EvenNumber.java  
+ ┃ ┣ 📜 PrimeNumber.java  
+ ┃ ┣ 📜 RadiusOfCircle.java  
+ ┃ ┣ 📜 StringReverse.java  
+ ┃ ┣ 📜 TableOfNumber.java  
+ ┃ ┗ 📂 Patterns  
+ ┃   ┣ 📜 HalfPyramid.java  
+ ┃   ┣ 📜 HollowRectangle.java  
+ ┃   ┣ 📜 InverstedHalfPyramid.java  
+ ┃   ┣ 📜 SolidRectangle.java  
+ ┃   ┣ 📜 Pattern5.java  
+ ┃   ┣ 📜 Pattern6.java  
+ ┃   ┣ 📜 Pattern_7.java  
+ ┃   ┣ 📜 Floyd's_triangle  
+ ┃   ┗ 📜 triangle_pattern  
 
 -----
 
 ## 📂 Programs List
 
-### ⭐ Pattern Programs (`programs/StarPattern`)
+### ⭐ Pattern Programs (`programs/Patterns`)
 
 | File | Description |
 |------|-------------|
-| [HalfPyramid.java](programs/StarPattern/HalfPyramid.java) | ⭐ Prints a half pyramid star pattern. |
-| [HollowRectangle.java](programs/StarPattern/HollowRectangle.java) | ⬛ Prints a hollow rectangle pattern. |
-| [InverstedHalfPyramid.java](programs/StarPattern/InverstedHalfPyramid.java) | 🔻 Prints an inverted half pyramid star pattern. |
-| [SolidRectangle.java](programs/StarPattern/SolidRectangle.java) | 🟥 Prints a solid rectangle pattern. |
+| [HalfPyramid.java](programs/Patterns/HalfPyramid.java) | ⭐ Prints a half pyramid star pattern. |
+| [HollowRectangle.java](programs/Patterns/HollowRectangle.java) | ⬛ Prints a hollow rectangle pattern. |
+| [InverstedHalfPyramid.java](programs/Patterns/InverstedHalfPyramid.java) | 🔻 Prints an inverted half pyramid star pattern. |
+| [SolidRectangle.java](programs/Patterns/SolidRectangle.java) | 🟥 Prints a solid rectangle pattern. |
+| [Pattern5.java](programs/Patterns/Pattern5.java) | 🔢 Prints a number-based star pattern (custom logic). |
+| [Pattern6.java](programs/Patterns/Pattern6.java) | 🔢 Another variation of number/star pattern. |
+| [Pattern_7.java](programs/Patterns/Pattern_7.java) | ⭐ Additional star pattern program. |
+| [Floyd's_triangle](programs/Patterns/Floyd's_triangle) | 🔼 Prints Floyd's triangle pattern. |
+| [triangle_pattern](programs/Patterns/triangle_pattern) | 🔼 Prints a simple triangle pattern. |
 
 ---
 
