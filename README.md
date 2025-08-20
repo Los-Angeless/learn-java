@@ -28,7 +28,7 @@ This repository covers fundamental programming exercises including star patterns
  ┃ ┣ 📜 RadiusOfCircle.java  
  ┃ ┣ 📜 StringReverse.java  
  ┃ ┣ 📜 TableOfNumber.java  
- ┃ ┗ 📂 Patterns  
+ ┃ ┗ **📂 Patterns ** 
  ┃   ┣ 📜 HalfPyramid.java  
  ┃   ┣ 📜 HollowRectangle.java  
  ┃   ┣ 📜 InverstedHalfPyramid.java  
