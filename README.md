@@ -18,29 +18,33 @@ This repository covers fundamental programming exercises including star patterns
 
 ## 📂 Folder Structure
 
-
+```plaintext
 📦 learn-java  
- ┣ 📜 javaprogramL.png         # Project banner image  
- ┣ 📜 README.md               # Project documentation  
+ ┣ 📜 javaprogramL.png         # 🖼️ Project banner image  
+ ┣ 📜 README.md               # 📘 Project documentation  
  ┗ 📂 programs  
- ┃ ┣ 📜 EvenNumber.java  
+ ┃ ┣ 📜 EvenNumber.java   
  ┃ ┣ 📜 PrimeNumber.java  
- ┃ ┣ 📜 RadiusOfCircle.java  
- ┃ ┣ 📜 StringReverse.java  
+ ┃ ┣ 📜 RadiusOfCircle.java   
+ ┃ ┣ 📜 StringReverse.java   
  ┃ ┣ 📜 TableOfNumber.java 
+ ┃ ┣ 📂 Patterns ⭐  
+ ┃ ┃ ┣ 📜 HalfPyramid.java 
+ ┃ ┃ ┣ 📜 HollowRectangle.java 
+ ┃ ┃ ┣ 📜 InverstedHalfPyramid.java   
+ ┃ ┃ ┣ 📜 SolidRectangle.java   
+ ┃ ┃ ┣ 📜 Pattern5.java   
+ ┃ ┃ ┣ 📜 Pattern6.java   
+ ┃ ┃ ┣ 📜 Pattern_7.java   
+ ┃ ┃ ┣ 📜 Floyd's_triangle   
+ ┃ ┃ ┗ 📜 triangle_pattern  
+ ┃ ┗ 📂 Functions 🔧
+ ┃   ┣ 📜 FindAverage.java   
+ ┃   ┣ 📜 GreaterNumber.java   
+ ┃   ┣ 📜 RadiusOfCircle1.java   
+ ┃   ┣ 📜 SumOfOddNumber.java 
+ ┃   ┗ 📜 Vote_Check_Eligibilty.java 
 
- 
- ┃ ┗📂Patterns
- 
- ┃   ┣ 📜 HalfPyramid.java  
- ┃   ┣ 📜 HollowRectangle.java  
- ┃   ┣ 📜 InverstedHalfPyramid.java  
- ┃   ┣ 📜 SolidRectangle.java  
- ┃   ┣ 📜 Pattern5.java  
- ┃   ┣ 📜 Pattern6.java  
- ┃   ┣ 📜 Pattern_7.java  
- ┃   ┣ 📜 Floyd's_triangle  
- ┃   ┗ 📜 triangle_pattern  
 
 -----
 
@@ -80,6 +84,19 @@ This repository covers fundamental programming exercises including star patterns
 | [StringReverse.java](programs/StringReverse.java) | 🔄 Reverses a given string. |
 
 ---
+
+### 🔧 Function Programs ('programs/Functions')
+| File                                                                          | Description                                                         |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [FindAverage.java](programs/Functions/FindAverage.java)                       | ➗ Calculates the average of numbers.                               |
+| [GreaterNumber.java](programs/Functions/GreaterNumber.java)                   | 🔼 Finds the greater number between two values.                     |
+| [RadiusOfCircle1.java](programs/Functions/RadiusOfCircle1.java)               | 📏 Calculates the area & circumference of a circle (function-based).|
+| [SumOfOddNumber.java](programs/Functions/SumOfOddNumber.java)                 | ➕ Calculates the sum of odd numbers up to `n`.                     |
+| [Vote\_Check\_Eligibilty.java](programs/Functions/Vote_Check_Eligibilty.java) | 🗳️ Checks voting eligibility based on age.                          |
+
+
+---
+
 
 ## 🚀 How to Run
 
