@@ -40,6 +40,17 @@ This repository covers fundamental programming exercises including star patterns
  ┃   ┣ 📜 Floyd's_triangle  
  ┃   ┗ 📜 triangle_pattern  
 
+  
+ ┃  ┗ 📂 Functions
+ 
+  ┃   ┣ 📜 FindAverage.java  
+ ┃   ┣ 📜 GreaterNumber.java  
+ ┃   ┣ 📜 RadiusOfCircle1.java  
+ ┃   ┣ 📜 SumOfOddNumber.java  
+ ┃   ┣ 📜 Vote_Check_Eligibilty.java  
+ 
+
+
 -----
 
 ## 📂 Programs List
@@ -78,6 +89,17 @@ This repository covers fundamental programming exercises including star patterns
 | [StringReverse.java](programs/StringReverse.java) | 🔄 Reverses a given string. |
 
 ---
+### 🔧 Function Programs ('programs/Functions')
+
+| File                                                                          | Description                                                          |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [FindAverage.java](programs/Functions/FindAverage.java)                       | ➗ Calculates the average of numbers.                                 |
+| [GreaterNumber.java](programs/Functions/GreaterNumber.java)                   | 🔼 Finds the greater number between two values.                      |
+| [RadiusOfCircle1.java](programs/Functions/RadiusOfCircle1.java)               | 📏 Calculates the area & circumference of a circle using a function. |
+| [SumOfOddNumber.java](programs/Functions/SumOfOddNumber.java)                 | ➕ Prints the sum of odd numbers up to `n`.                           |
+| [Vote\_Check\_Eligibilty.java](programs/Functions/Vote_Check_Eligibilty.java) | 🗳️ Checks voting eligibility based on age.                          |
+
+---
 
 ## 🚀 How to Run
 
@@ -89,7 +111,7 @@ This repository covers fundamental programming exercises including star patterns
 2. Open the folder in your Java IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 3. Compile and run any Java program:
        
-   javac FileName.java
+   javac FileName.java </br>
    java FileName
      
 
